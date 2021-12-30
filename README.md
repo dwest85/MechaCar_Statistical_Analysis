@@ -8,7 +8,7 @@
 * Deliverable 1 Code
 ![del_1_code](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/del_1_code.PNG)
 
-Deliverable 1 Output
+* Deliverable 1 Output
 ![del_1_output](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/del_1_output.PNG)
 
 * Is the slope of the linear model considered to be zero? Why or why not?
