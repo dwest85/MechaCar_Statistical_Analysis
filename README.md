@@ -6,10 +6,10 @@
 * The variables Vehicle_Length and Ground_Clearance reject the null hypothesis due to the correlation with the MPG unit change. The p-value for these variables were: 2.60e-12 and 5.21e-08, which were significantly lower than 5%, making a confident prediction to back the alternative hypothesis. Also, the total model prediction p-value shows that more than one variable does not accept the null hypothesis. 
 
 * Deliverable 1 Code
-![del_1_code]()
+![del_1_code](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/del_1_code.PNG)
 
 Deliverable 1 Output
-![del_1_output]()
+![del_1_output](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/del_1_output.PNG)
 
 * Is the slope of the linear model considered to be zero? Why or why not?
 
@@ -23,31 +23,31 @@ Deliverable 1 Output
 * Based on the total summary and lot summary data, the total summary variance is met when all lots are examined, creating a total variance of 62.29356, but individually, lot 3 far exceeds the specification needs with an individual lot variance of 170.2861224.
 
 * Total Summary
-![total_sum]()
+![total_sum](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/total_sum.PNG)
 
 * Lot Summary
-![lot_sum]()
+![lot_sum](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/lot_sum.PNG)
 
 * Deliverable 2 Code
-![del_2_code]()
+![del_2_code](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/del_2_code.PNG)
 
 # T- Tests on Suspension Coils
 * Based on the individual T-test data for all lots, Lot 3 was the only lot with a high p-value of 15.9%, meaning the PSI mean was affected only by this specific lot. The other two lots (lot 1 and lot 2) had very small p-values, meaning the null hypothesis was rejected and there was no correlation. The overall PSI T-test had a p-value of 1, as the Suspension Coil PSI mean and Total Summary mean were equal. 
 
 * Deliverable 3 Code
-![del_3_code]()
+![del_3_code](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/del_3_code.PNG)
 
 * Overall PSI T-Test
-![overall_PSI_output]()
+![overall_PSI_output](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/overall_PSI_output.PNG)
 
 * Lot 1 T-Test
-![lot1_PSI]()
+![lot1_PSI](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/lot1_PSI.PNG)
 
 * Lot 2 T-Test
-![lot2_PSI]()
+![lot2_PSI](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/lot2_PSI.PNG)
 
 * Lot 3 T-Test
-![lot3_PSI]()
+![lot3_PSI](https://github.com/dwest85/MechaCar_Statistical_Analysis/blob/main/markdownpics/lot3_PSI.PNG)
 
 # Study Design: MechaCar vs Competition
 
